@@ -16,6 +16,10 @@ The dataset is divided into 3 sub dataset: Walk, Handshake, Pickupbook.
 
 The paper `On Balancing Latency and Quality of Multi-view 3D Reconstruction at the Edge`_ (Section III) describes the dataset and the methodology followed when collecting it in detail. Please cite it if you intend to use this dataset.
 
+---------------
+Image examples
+---------------
+
 
 ============
 Download
