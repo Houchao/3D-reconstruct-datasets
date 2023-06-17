@@ -19,6 +19,10 @@ The paper `On Balancing Latency and Quality of Multi-view 3D Reconstruction at t
 ---------------
 Image examples
 ---------------
+Walk: 
+.. image:: sample\\walk\\0.jpg
+  :width: 400
+  :alt: Alternative text
 
 
 ============
