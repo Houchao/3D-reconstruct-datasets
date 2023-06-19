@@ -75,8 +75,16 @@ Download
 If you're going to use this dataset, please cite the paper at the bottom of this page.
 
 ============
-Baseline results
+Reconstruction Results
 ============
+
+---------------
+Pickupbook
+---------------
+
+.. image:: sample/pickupbook/0.jpg
+    :alt: IMAGE ALT TEXT HERE
+    :target: https://sketchfab.com/models/19bf9ca28b14416190d25ddd44e846e0/embed
 
   
 ===============
