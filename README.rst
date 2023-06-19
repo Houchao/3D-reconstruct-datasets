@@ -114,4 +114,4 @@ Reference
 
 ..
   link for the consent form
-.. _Consent form : https://docs.google.com/forms/d/e/1FAIpQLScBn_suIqzE0MEQvFRJQMLw9chhZJLYYaAkGo3i8nlgFVKSug
+.. _Consent form : https://forms.gle/yVuJUKZFbwJfjNhbA
