@@ -69,12 +69,6 @@ Pickupbook samples
      :width: 19%
 
 ============
-Download
-============
-
-If you're going to use this dataset, please cite the paper at the bottom of this page.
-
-============
 Reconstruction Results
 ============
 
@@ -96,6 +90,16 @@ Pickupbook
 .. image:: screenshots/pickup.png
     :target: https://sketchfab.com/models/19bf9ca28b14416190d25ddd44e846e0/embed
 
+============
+Download
+============
+
+If you're going to use this dataset, please fill the consent form and cite the paper at the bottom of this page.
+
+`Consent form`_
+
+.. raw:: html
+
   
 ===============
 Reference
@@ -107,3 +111,7 @@ Reference
   link for the paper 
 
 .. _On Balancing Latency and Quality of Multi-view 3D Reconstruction at the Edge: https://domain.invalid/
+
+..
+  link for the consent form
+.. _Consent form : https://docs.google.com/forms/d/e/1FAIpQLScBn_suIqzE0MEQvFRJQMLw9chhZJLYYaAkGo3i8nlgFVKSug
