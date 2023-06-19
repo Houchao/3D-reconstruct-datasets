@@ -79,10 +79,21 @@ Reconstruction Results
 ============
 
 ---------------
+Walk
+---------------
+.. image:: screenshots/walk.png
+    :target: https://sketchfab.com/models/c1156ff696354760b686c3ff473e8d5a/embed
+
+---------------
+Handshake
+---------------
+.. image:: screenshots/handshake.png
+    :target: https://sketchfab.com/models/15f0f4aee2ff46748d165aea6acda0d2/embed
+
+---------------
 Pickupbook
 ---------------
-
-.. image:: screenshots/pickup_screenshot.png
+.. image:: screenshots/pickup.png
     :target: https://sketchfab.com/models/19bf9ca28b14416190d25ddd44e846e0/embed
 
   
