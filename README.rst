@@ -82,8 +82,7 @@ Reconstruction Results
 Pickupbook
 ---------------
 
-.. image:: sample/pickupbook/0.jpg
-    :alt: IMAGE ALT TEXT HERE
+.. image:: screenshots/pickup_screenshot.png
     :target: https://sketchfab.com/models/19bf9ca28b14416190d25ddd44e846e0/embed
 
   
