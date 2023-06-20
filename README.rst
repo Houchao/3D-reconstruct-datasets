@@ -108,7 +108,7 @@ Reference
 .. 
   link for the paper 
 
-.. _On Balancing Latency and Quality of Multi-view 3D Reconstruction at the Edge: https://domain.invalid/
+.. _On Balancing Latency and Quality of Multi-view 3D Reconstruction at the Edge: https://www.google.com/
 
 ..
   link for the consent form
