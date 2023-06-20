@@ -94,7 +94,7 @@ Pickupbook
 Download
 ============
 
-If you're going to use this dataset, please fill the `consent form`_ and cite the paper at the bottom of this page.
+If you're going to use this dataset, please fill the `consent form`_ and we will send you the download link.
 
 .. raw:: html
 
