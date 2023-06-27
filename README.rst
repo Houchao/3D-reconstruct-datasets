@@ -66,7 +66,7 @@ Pickupbook samples
 .. |pick_img4| image:: sample/pickupbook/3.jpg
      :width: 19%
 .. |pick_img5| image:: sample/pickupbook/4.jpg
-     :width: 19%
+     :width: 19% 
 
 ============
 Reconstruction Results
