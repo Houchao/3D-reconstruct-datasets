@@ -111,7 +111,7 @@ Reference
   link for the paper 
 
 .. _On Balancing Latency and Quality of Multi-view 3D Reconstruction at the Edge: https://www.google.com/
-.. _End-to-End Latency Optimization of Multi-view 3D Reconstruction for Disaster Response : https://arxiv.org/pdf/2304.01488.pdf
+.. _End-to-End Latency Optimization of Multi-view 3D Reconstruction for Disaster Response : https://arxiv.org/pdf/2304.01488.pdf 
 
 ..
   link for the consent form
